@@ -1,4 +1,3 @@
-/* eslint-disable no-multi-str */
 module.exports.biologiai_kulonprogramok=()=>{
 
 let konstellaciok = [{
