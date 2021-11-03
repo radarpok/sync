@@ -9,7 +9,7 @@ let biologiai_konfliktus = [{
         figyelmetlenek vagy hanyagok vagyunk, kárt tehetünk önmagunkban.\
         DHS csak akkor következik be, ha mind az öt alábbi feltétel egyszerre áll fenn:",
 
-        A:  "A konfliktus témája, tárgya egy komolynak érzett, lesújtó, lehengerlő, nyugtalanító, nyomasztó, elkeserítő, kiábrándító, kétségbe ejtő,\
+        A:  "A konfliktus témája, tárgya egy komolynak érzett, lesújtó, lehengerlő, nyugtalanító, nyomasztó, elkeserítő, kiábrándító, kétségbe ejtő, \
             idegesítő, felzaklató, félelmet keltő dolog, esemény, szituáció, melyben érintettnek, hibásnak, felelősnek, áldozatnak vagy egyedül illetékesnek\
             érezzük magunkat. A dolog lehet enyhe bosszúság, de lehet egy dühös, heves érzelmi kitörés, vagy egy brutális, drámai sokkélmény is. A lényeg:\
             tartósan kibillent a lelki nyugalmunkból és a figyelmünk huzamosabb ideig feszülten egy dologra koncentrálódik (kényszeres gondolkozás jelenik meg).",
