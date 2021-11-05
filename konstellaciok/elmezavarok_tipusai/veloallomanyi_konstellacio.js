@@ -55,8 +55,8 @@ let veloallomanyi_konstellacio = [{
     lehetseges_visszaeses: {
 
         1:"Sínek - az eredeti konfliktusra emlékeztető tényezők - hatására, amennyiben még mindig kibillenek érzelmileg, a konfliktus megoldatlannak\
-        minősül, és csak ideiglenes gyógyulás történt. Ezesetben dolgom olyan embernek beszélni az esetről, aki már átélte azt, amit én, és feltétel\
-        nélküli elfogadással tud útmutatást nyújtani, ha kérem.\
+        minősül. Ezesetben dolgom olyan embernek beszélni az esetről, aki már átélte azt, amit én, és feltétel nélküli elfogadással tud útmutatást nyújtani,\
+        ha kérem.\
         Ha valakinél minden konfliktus-feloldási, konstellációból kibillentési próbálkozás csődöt mond, és konfliktus-aktivitás nélkül is produkálja a\
         mentális tüneteket, ez csak azért lehet,  mert korábban nagyon sokszor, akár 30-40 alkalommal visszaesett ugyanabba a konfliktusba, és az\
         elváltozás különprogramjaival maradandóan károsította, roncsolta az agyi vezérlőközpontjait. Ez viszont már fizikai agyi relé károsodás, melynek\
